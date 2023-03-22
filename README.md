@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krovostok
 - 👀 I’m interested in tomas
 - 🌱 I’m currently learning tomas
-- 💞️ I’m looking to collaborate on tomas
+- 💞️ I’m looking to collaborate with tomas
 - 😏 How to reach me? i'm inside tomas
 
 <!---
